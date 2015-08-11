@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Provides all Compiled Solidity Contracts with binary,json-abi,natspec-dev,natspec-user in an \"Contracts\" Object.",
   version: "0.1.0",
-  name: "mhhf:solidity",
+  name: "napsy:solidity",
 });
 
 Package.registerBuildPlugin({

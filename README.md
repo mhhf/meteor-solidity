@@ -8,7 +8,7 @@ Install (Solidity Compiler)(https://github.com/ethereum/cpp-ethereum).
 
 Install this package
 ```
-$ meteor add mhhf:solidity
+$ meteor add napsy:solidity
 ```
 
 ## Usage
