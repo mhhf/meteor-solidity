@@ -1,7 +1,8 @@
 Package.describe({
-  summary: "Provides all Compiled Solidity Contracts with binary,json-abi,natspec-dev,natspec-user in an \"Contracts\" Object.",
+  summary: "Provides all Compiled Solidity Contracts in a global Contracts Object.",
   version: "0.1.0",
   name: "napsy:solidity",
+  git: "git@github.com:mhhf/meteor-solitidy.git"
 });
 
 Package.registerBuildPlugin({
