@@ -1,7 +1,6 @@
 # Solidity Compiler for Meteor
 
-Provides you with a `Contracts` Object with all Solidity Contracts found in your project folder.
-
+Provides you with a `Contracts` Object with all Solidity Contracts found in the project folder.
 
 ## Installation
 
