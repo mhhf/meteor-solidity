@@ -4,7 +4,7 @@ Provides you with a `Contracts` Object with all Solidity Contracts found in the 
 
 ## Installation
 
-Install (Solidity Compiler)(https://github.com/ethereum/cpp-ethereum).
+Install [Solidity Compiler](https://github.com/ethereum/cpp-ethereum).
 
 Install this package
 ```
