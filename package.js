@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Provides all Compiled Solidity Contracts in a global Contracts Object.",
-  version: "0.1.0",
+  version: "0.1.1",
   name: "napsy:solidity",
   git: "git@github.com:mhhf/meteor-solitidy.git"
 });
